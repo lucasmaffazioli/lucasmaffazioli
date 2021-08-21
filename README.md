@@ -7,7 +7,7 @@
 
 I love to develop beaultiful and useful things. 
 
-Currently looking for opportunities anywhere in the EU. Feel free to e-mail me!
+Currently looking for full-stack/front-end opportunities anywhere in the EU. Feel free to e-mail me!
 
 ## Tech stack and frameworks
 
@@ -16,17 +16,26 @@ Currently looking for opportunities anywhere in the EU. Feel free to e-mail me!
 - [Next.js](https://nextjs.org/)
 - [Flutter](https://flutter.dev/)
 - [DotNet](https://dotnet.microsoft.com/)
-- [Node.js](https://nodejs.org/)
 - [GeneXus](https://www.genexus.com/)
 - [WorkWithPlus](https://www.workwithplus.com/)
 - [SASS](https://sass-lang.com/)
+- [Styled-components](https://styled-components.com/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
 - [Cypress.js](https://www.cypress.io/)
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
 - [Apache Kafka](https://kafka.apache.org/)
-- [Docker](https://www.docker.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [FireBase](https://firebase.google.com/)
+- [FaunaDB](https://fauna.com/)
+- [Axios](https://github.com/axios/axios)
+
 
 ## Other tools that I use
 - [Figma](https://www.figma.com/)
+- [Docker](https://www.docker.com/)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
-- [Puppeteer](https://github.com/puppeteer/puppeteer)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Addobe Premiere Pro](https://www.adobe.com/products/premiere.html)
