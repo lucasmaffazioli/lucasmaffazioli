@@ -5,7 +5,7 @@
 
 ### About me
 
-I love to develop beaultiful and useful things. 
+I love to develop beaultiful and useful things.
 
 Currently looking for full-stack/front-end opportunities anywhere in the EU. Feel free to e-mail me!
 
