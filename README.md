@@ -31,6 +31,7 @@ Currently looking for full-stack/front-end opportunities anywhere in the EU. Fee
 - [FireBase](https://firebase.google.com/)
 - [FaunaDB](https://fauna.com/)
 - [Axios](https://github.com/axios/axios)
+- [React Hook Form](https://react-hook-form.com/)
 
 
 ## Other tools that I use
