@@ -33,6 +33,7 @@ Currently looking for full-stack/front-end opportunities anywhere in the EU. Fee
 - [Axios](https://github.com/axios/axios)
 - [Chakra UI](https://chakra-ui.com/)
 - [React Hook Form](https://react-hook-form.com/)
+- [React Query](https://react-query.tanstack.com/)
 
 
 ## Other tools that I use
