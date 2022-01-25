@@ -7,7 +7,7 @@
 
 I love to develop beautiful and useful things.
 
-Currently looking for full-stack/front-end opportunities anywhere in the EU. Feel free to e-mail me!
+Currently looking for front-end or full-stack opportunities anywhere in the EU. Feel free to e-mail me!
 
 ## Tech stack and frameworks
 
