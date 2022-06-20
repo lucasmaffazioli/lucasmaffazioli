@@ -7,8 +7,6 @@
 
 I love to develop beautiful and useful things.
 
-Currently looking for front-end or full-stack opportunities anywhere in the EU. Feel free to e-mail me!
-
 ## Tech stack and frameworks
 
 - [TypeScript](https://www.typescriptlang.org/)
