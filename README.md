@@ -5,7 +5,7 @@
 
 ### About me
 
-I love to develop beautiful and useful things.
+I love to develop cool and useful things :)
 
 ## Tech stack and frameworks
 
@@ -32,11 +32,12 @@ I love to develop beautiful and useful things.
 - [Chakra UI](https://chakra-ui.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Query](https://react-query.tanstack.com/)
+- [Docker](https://www.docker.com/)
 
 
 ## Other tools that I use
 - [Figma](https://www.figma.com/)
-- [Docker](https://www.docker.com/)
+
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Addobe Premiere Pro](https://www.adobe.com/products/premiere.html)
